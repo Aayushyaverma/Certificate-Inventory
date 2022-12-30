@@ -8,4 +8,5 @@ During Winter break of 2021-22 I worked as an Intern at IIT Kanpur through pruto
 </ul>
 
 <b> Certificate and Repo link attached</b>
+
 <a href="https://github.com/Aayushyaverma/Ayushya-Store">Repo Link</a>
