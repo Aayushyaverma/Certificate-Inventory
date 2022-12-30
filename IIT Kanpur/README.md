@@ -1,6 +1,6 @@
 <H2> Indian Institute of Technology, Kanpur </h2>
 
-<h3><a href="prutor.ai">Prutor Link</a></h3>
+
 
 I did 2 internships from IIT Kanpur both as past of my B.Tech course. 
 Domains I did my internship in:
